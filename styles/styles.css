@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: grey;
+    background-color: beige;
+}
+ul  {
+    color: cadetblue;
+    font-size: 14px;
+    font-style: italic;
+}
+li {
+    font-weight: normal;
+}
+a { 
+    color: darkolivegreen;
+    text-decoration: none;
+    font-weight: bolder;
+}
+a:hover {
+    text-decoration: underline;
+    /* font-size: 16px; */
+}
+a:visited { 
+    color: darkolivegreen;
+}
+.bold {
+    font-weight: bold;
+}
+.underline {text-decoration: underline;}
+.justify {text-align: justify;}
+
+.homebg {
+    background-image: url("../Images/IMG_4735.jpeg");
+    background-position:center;
+}
+.box1 {
+text-align: justify;
+border-style: solid;
+border-width: 5px;
+border-color: cadetblue;
+padding: 5px;
+}
